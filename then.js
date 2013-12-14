@@ -1,6 +1,6 @@
 /**
  * @fileoverview 果果的JS库
- * @author 果果
+ * @author 果牛
  **/
 (function(Here, _empty) {
 	if ('thenjs' in Here) {
