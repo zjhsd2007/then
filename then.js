@@ -4,7 +4,7 @@
  **/
 (function(Here, _empty) {
 	if ('thenjs' in Here) {
-		return
+		return Here;
 	}
 	var Super,
 	$,
